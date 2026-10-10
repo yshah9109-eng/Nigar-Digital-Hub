@@ -1,0 +1,16 @@
+NIGAR DIGITAL HUB — SEO LAUNCH CHECKLIST
+
+1. Replace https://your-domain.com/ in sitemap.xml and robots.txt with the real website domain.
+2. After the real domain is known, add an absolute canonical URL to every HTML page.
+3. Update the Open Graph image/URL metadata with the production URL.
+4. Deploy the site on a public HTTPS domain that returns HTTP 200 for each page.
+5. Verify the domain in Google Search Console.
+6. Submit /sitemap.xml in Search Console.
+7. Use URL Inspection in Search Console to request indexing for the homepage and important pages.
+8. Keep internal links working and use descriptive link text.
+9. Replace placeholder project/team/review content with genuine information.
+10. Add real social profile links when available.
+11. Keep page titles and descriptions unique and natural; do not keyword-stuff.
+12. Publish useful, original content regularly and earn relevant links/mentions from other websites.
+
+IMPORTANT: No website can honestly be guaranteed a #1 Google ranking. SEO improves eligibility, understanding, visibility and competitiveness, but Google ranking depends on many factors including relevance, quality, competition, links, location and user intent.

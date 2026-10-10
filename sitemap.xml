@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace https://your-domain.com/ with the real production domain before submitting to Google Search Console. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://your-domain.com/</loc></url>
+  <url><loc>https://your-domain.com/services.html</loc></url>
+  <url><loc>https://your-domain.com/portfolio.html</loc></url>
+  <url><loc>https://your-domain.com/about.html</loc></url>
+  <url><loc>https://your-domain.com/blog.html</loc></url>
+  <url><loc>https://your-domain.com/contact.html</loc></url>
+  <url><loc>https://your-domain.com/book.html</loc></url>
+</urlset>
